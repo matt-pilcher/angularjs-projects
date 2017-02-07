@@ -1,0 +1,21 @@
+{
+  "name": "zift_board",
+  "homepage": "https://github.com/mpilcher90/angularjs-projects",
+  "authors": [
+    "mpilcher90@gmail.com <mpilcher90@yahoo.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-ui-router": "^0.4.2",
+    "bootstrap": "^3.3.7"
+  }
+}
